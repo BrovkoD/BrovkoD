@@ -1,3 +1,3 @@
 - ✌️ Hi! My name is Danil Brovko
-- 🌱 I’m currently learning Computer Science at KPI (Kyiv, UA)
-- 💻 I like developing of new software (C, C++, Java, Python)
+- 🌱 I’m currently getting a master's degree in AI at KPI (Kyiv, UA)
+- 💻 I like to implement new ideas in WEB and AI spheres using Java, JS, Python, C and C++
